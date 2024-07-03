@@ -1,5 +1,7 @@
 # Ecommerce-store-sales-dashboard
 This project is designed to assist the store owner in comprehensively tracking and analyzing their online sales performance across India. The primary objective is to leverage data analysis techniques, specifically time series analysis, to deliver actionable insights and an interactive dashboard that supports informed decision-making.
+
+
 Identify KPIs: Determine the key performance indicators (KPIs) that are crucial for understanding sales performance.
 Design: Develop an intuitive and visually appealing dashboard that effectively presents sales data.
 Interactivity: Incorporate interactive visualizations and filtering capabilities to allow the store owner to explore sales data at various levels of granularity.
