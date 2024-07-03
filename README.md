@@ -17,3 +17,6 @@ This project is designed to assist the store owner in comprehensively tracking a
 . Business Growth and Efficiency: Support the store owner's goals for growth, operational efficiency, and customer satisfaction.
 
 By focusing on these components, the project aims to enhance the store owner’s ability to track and analyze online sales across India, ultimately driving business success through data-driven decision-making
+
+![Ecommerce sales dashboard](https://github.com/vinayakdon/Ecommerce-store-sales-dashboard/assets/78019838/e97ae771-4937-4a33-add9-991c4ee6f904)
+
